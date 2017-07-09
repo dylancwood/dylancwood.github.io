@@ -1,0 +1,14 @@
+siteTitle = "Observations by Dylan Clay Wood"
+siteDescr = "Yet another sofware engineer broadcasting their experiences to the world"
+siteAuthor = "Dylan Clay Wood"
+
+siteTelegramUrl = false
+siteTwitterUrl = false
+siteGithubUrl = "https://github.com/dylancwood"
+siteEmailUrl = "me@dylancwood.com"
+siteRssUrl = false
+siteVkUrl = false
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
